@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Blockchain and cybersecurity related projects
 - 📫 How to reach me : chamikahapuhinna@gmail.com
 
-[![An image of @hapuhinnachamika's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hapuhinnachamika)](https://holopin.io/@hapuhinnachamika)
 
 <!---
 Hapuhinna-chamika/Hapuhinna-chamika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
